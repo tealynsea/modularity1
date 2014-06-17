@@ -1,0 +1,98 @@
+/* ADD YOUR STYLES HERE */
+
+html, body {
+	width: 100%;
+}
+
+.tablerows1 tr td {
+    
+    height: 25px;
+    width: 200px;
+         
+}
+
+.border-bottom1 {
+
+	border-bottom: solid 1px black;
+}
+
+.border-bottom2 {
+
+	border-top: solid 1px black;
+}
+
+.tablerows2 tr td {
+    
+    height: 25px;
+    width: 200px;
+       
+}
+
+ 
+.statsborder td {
+	border-top: solid 1px gray;
+	border-bottom: solid 1px gray;
+	width: 74px;
+	padding: 10px;
+	 
+
+}
+
+
+.superfont {
+	font-size: 35px;
+	font-weight: bold;
+
+}
+
+.littlefont {
+	font-size: 15px;
+	color: #777 !important;
+}
+
+ 
+.bargraph div {
+	
+	background-color:  #3399cc; 
+	text-indent: 4px;
+	color: white; 
+	height: 25px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+.bargraph  td{
+	 
+	 width: 500px;
+
+}
+
+.bargraph th {
+	text-align: right;
+	font-size: 15px;
+	padding-right: 10px;
+	width: 15%%;
+
+}
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
